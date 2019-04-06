@@ -1,4 +1,5 @@
 
+
 var random_result;
 var win = 0;
 var lost = 0;   
@@ -6,10 +7,10 @@ var previous = 0;
 
 // $(".crystal").attr('class', 'red');
 var images = [
-    'https://media.indiedb.com/cache/images/games/1/65/64760/thumb_620x2000/TC-Blue-Crystal.png',
+    'http://cdn.shopify.com/s/files/1/1342/5013/products/giant_crystal_blue2_grande.jpg?v=1472097716',
     'https://i.ebayimg.com/images/g/5g0AAOSwcUBYTg~T/s-l300.jpg',
-    'https://newvitruvian.com/images/transparent-emerald-2.png',
-    'https://smhttp-ssl-64693.nexcesscdn.net/media/wysiwyg/crystal-meanings/citrine-glossary.jpg',
+    'https://www.zerotoys.com/v/vspfiles/photos/MAGICALCRYSTALS-3.jpg',
+    'https://images.catsolonline.com/cache/TK_656072-500x500.jpg',
 ]
 
 random_result = Math.floor(Math.random() * 69 ) + 30;
